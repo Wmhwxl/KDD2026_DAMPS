@@ -66,7 +66,7 @@ After downloading, please organize your directory as follows:
 │   ├── MGCN.py
 │   ├── DAMPS.py
 │   └── ...
-├── Figures/
+├── Figure/
 │   └── DAMPS.png
 └── README.md
 ```
