@@ -8,7 +8,7 @@ In this work, we propose **DAMPS**, a novel framework that calibrates multimodal
 
 ## 🏗️ Model Architecture
 
-![DAMPS Framework](Figures/DAMPS.png)
+![DAMPS Framework](Figure/DAMPS.png)
 
 > **Figure 1:** The overall architecture of the proposed DAMPS framework.
 
