@@ -120,7 +120,7 @@ If you find this repository or our paper useful, please cite:
 ```bibtex
 @inproceedings{damsp2026,
   title={Enhancing Multimodal Recommendation via Multimodal Representation Calibration in Spectral Domain},
-  author={Your Name and Co-authors},
+  author={Minghui Wang, Tingting Zhang, Yu Li, and Yi Chang},
   booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26)},
   year={2026}
 }
